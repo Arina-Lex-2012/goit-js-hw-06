@@ -23,9 +23,9 @@ button {
   cursor: pointer;
 }
 
-/* ul {
+ul {
   list-style: none;
-} */
+}
 
 .gallery-item {
   display: flex;
