@@ -11,6 +11,3 @@ inputEl.addEventListener('input', () => {
     }
  });
 
-
-
-console.log(inputEl.value);
