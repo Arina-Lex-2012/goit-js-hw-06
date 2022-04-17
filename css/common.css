@@ -39,7 +39,7 @@ ul {
 
 .gallery-item:last-child,
 .gallery-item:first-child {
-  transform: rotate(5deg);
+  transform: rotate(2deg);
 }
 
 #validation-input {
