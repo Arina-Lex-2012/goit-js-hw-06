@@ -37,11 +37,6 @@ ul {
   box-shadow: 8px 8px 8px 2px rgba(20, 20, 200, 0.2);
 }
 
-.gallery-item:last-child,
-.gallery-item:first-child {
-  transform: rotate(2deg);
-}
-
 #validation-input {
   border: 3px solid #bdbdbd;
 }
